@@ -1,5 +1,7 @@
 # 7270-building-virtual-environments
 
+Building Virtual Environments taught by Prof Nik Bear Brown at NEU. 
+
 A pivotal component of the curriculum focuses on real-time 3D rendering engines and the intricate subsystems that breathe life into both 2D and 3D realms. Learners will gain insights into various facets
 encompassing rendering, animation, collision mechanics, physics, audio intricacies, trigger systems, intricate shading, control logic, the nuances of behavior trees, and the rudiments of artificial intelligence.
 The course not only outlines the underpinnings of real-time graphics engines but also equips students with the skills to harness libraries, such as physics and graphics libraries, tailoring them to forge
