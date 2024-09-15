@@ -7,49 +7,63 @@ interactive real-time virtual environments. Key discussions revolve around the g
 analytics, and the versatile scripting languages.
 
 Week 1
-Game Design Document or GDD
-Generative AI for Game Conceptualization and Content Ideas
+- Game Design Document or GDD
+- Generative AI for Game Conceptualization and Content Ideas
+  
 Week 2
-Unity Game Engine Basics
-Generative AI for Character Style
+- Unity Game Engine Basics
+ Generative AI for Character Style
+
 Week 3
-Unity Game Engine Basics (Advanced)
-Generative AI for Character Design
+- Unity Game Engine Basics (Advanced)
+- Generative AI for Character Design
+  
 Week 4
-Unreal Engine Basics
-Generative AI for background generation
+- Unreal Engine Basics
+- Generative AI for background generation
+
 Week 5
-Unreal Engine Basics (Advanced)
-Generative AI for 3D modeling
+- Unreal Engine Basics (Advanced)
+- Generative AI for 3D modeling
+
 Week 6
-Shaders & Materials
-Generative AI for Shader and Material Design
+- Shaders & Materials
+- Generative AI for Shader and Material Design
+
 Week 7
-Advanced Shaders & Materials
-Generative AI for Storybaords
+- Advanced Shaders & Materials
+- Generative AI for Storyboards
+
 Week 8
-Shaders & Materials (Applied Techniques)
-Generative AI for Adaptive Shader Creation
+- Shaders & Materials (Applied Techniques)
+- Generative AI for Adaptive Shader Creation
+
 Week 9
-Particle Effects
-Generative AI for Procedural Particle Effect Generation
+- Particle Effects
+- Generative AI for Procedural Particle Effect Generation
+
 Week 10
-Animation
-Generative AI for Character Animation and Motion Synthesis
+- Animation
+- Generative AI for Character Animation and Motion Synthesis
+
 Week 11
-Advanced Animation Techniques
-Generative AI for Sprite Based-Animation
+- Advanced Animation Techniques
+- Generative AI for Sprite Based-Animation
+
 Week 12
-Audio
-Generative AI for Music Composition and Voice Over Synthesis
+- Audio
+- Generative AI for Music Composition and Voice Over Synthesis
+
 Week 13
-Profiling/Optimization
-Generative AI-driven Techniques for Dynamic Content Generation
+- Profiling/Optimization
+- Generative AI-driven Techniques for Dynamic Content Generation
+
 Week 14
-Game AI Basics
-Generative AI for Game AI
+- Game AI Basics
+- Generative AI for Game AI
+
 Week 15
-Final Projects
-Generative AI for creating a Game Trailer
+- Final Projects
+- Generative AI for creating a Game Trailer
 
 
